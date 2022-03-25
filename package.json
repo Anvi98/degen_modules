@@ -1,3 +1,7 @@
 {
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "array-shuffle": "^3.0.0",
+    "node-fetch": "^3.2.3"
+  }
 }
