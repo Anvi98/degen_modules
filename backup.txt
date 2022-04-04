@@ -4,3 +4,7 @@ buys
 culture
 cb
 barriers
+asia
+consideration
+crossing
+college
